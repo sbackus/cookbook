@@ -199,6 +199,8 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
     according to OSes
 * Go over any other logistics - e.g. where the bathrooms are, what's off limits
   (like anything in the NERD Center kitchen), etc.
+* Introduce speakers
+* Ask students to fill out survey at the end
 
 #### Catering Coordinator
 
